@@ -6,7 +6,7 @@ This project aims to analyze the annual sales data for Reliance in 2022. This wi
 
 ## Dataset Used
 -	<a href = "https://github.com/Abhijeet9340/Reliance-sales-dashboard-/blob/main/Power%20BI%20Dataset.xlsx">Sales Data </a>
-- <a href = " https://github.com/Abhijeet9340/Reliance-sales-dashboard-/blob/main/Reliance%20Sales%20Report.pbix"> Reliance Sales Report </a>
+- <a href = "https://github.com/Abhijeet9340/Reliance-sales-dashboard-/blob/main/Reliance%20Sales%20Report.pbix"> Reliance Sales Report </a>
 - <a href ="https://github.com/Abhijeet9340/Reliance-sales-dashboard-/blob/main/dashboard%201.png"> Dashboard </a>
 - <a href ="https://github.com/Abhijeet9340/Reliance-sales-dashboard-/blob/main/dashboard%202.png"> Dashboard Interection </a>
 
