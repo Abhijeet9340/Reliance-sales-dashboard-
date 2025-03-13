@@ -12,15 +12,22 @@ This project aims to analyze the annual sales data for Reliance in 2022. This wi
 
 ## Key Questions (KPIs)
 •	Compare the sales and orders using a single chart.
-•	Identify the month with the highest sales and orders.
-•	Determine the customer demographic that purchases the most (if applicable).
-•	Analyze different order statuses for 2022.
-•	List the top 10 states contributing to total sales.
-•	Study the relationship between age and gender based on the number of orders (if data is available).
-•	Identify the most successful sales channel.
-•	Determine the highest-selling product category.
-•	Calculate the percentage of total orders delivered.
 
+•	Identify the month with the highest sales and orders.
+
+•	Determine the customer demographic that purchases the most (if applicable).
+
+•	Analyze different order statuses for 2022.
+
+•	List the top 10 states contributing to total sales.
+
+•	Study the relationship between age and gender based on the number of orders (if data is available).
+
+•	Identify the most successful sales channel.
+
+•	Determine the highest-selling product category.
+
+•	Calculate the percentage of total orders delivered.
 
 ## Process
 1.	Verified data for missing values, anomalies, and inconsistencies.
@@ -31,9 +38,13 @@ This project aims to analyze the annual sales data for Reliance in 2022. This wi
 
 ## Project Insights
 •	The month with the highest sales and orders was identified.
+
 •	The top 10 states contributing the most to total sales were listed.
+
 •	The highest-selling product category was determined.
+
 •	The most effective sales channel driving revenue was identified.
+
 •	More than 90% of the orders were successfully delivered.
 
 
