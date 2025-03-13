@@ -5,8 +5,10 @@
 This project aims to analyze the annual sales data for Reliance in 2022. This will help the business owners gain insights into customer behavior, product performance, and regional sales distribution to enhance business strategies for 2023 & 2024.
 
 ## Dataset Used
-•	Power BI Dataset.xlsx
-•	Reliance Sales Report. pix
+-	<a href = "https://github.com/Abhijeet9340/Reliance-sales-dashboard-/blob/main/Power%20BI%20Dataset.xlsx">Sales Data </a>
+- <a href = " https://github.com/Abhijeet9340/Reliance-sales-dashboard-/blob/main/Reliance%20Sales%20Report.pbix"> Reliance Sales Report </a>
+- <a href ="https://github.com/Abhijeet9340/Reliance-sales-dashboard-/blob/main/dashboard%201.png"> Dashboard </a>
+- <a href ="https://github.com/Abhijeet9340/Reliance-sales-dashboard-/blob/main/dashboard%202.png"> Dashboard Interection </a>
 
 ## Key Questions (KPIs)
 •	Compare the sales and orders using a single chart.
